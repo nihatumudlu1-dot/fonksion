@@ -1,0 +1,17 @@
+#def cikti():
+
+    #print("Hello World")
+#cikti()    
+
+#def fullname(*args):
+    #print(args[0]+" "+args[1])
+#fullname("John","Doe") 
+
+#def my_name(name3,name2,name1):
+    #print("My real name is: "+name3)
+#my_name(name1="John",name2="Doe",name3="Smith")    
+
+#def say_hello():
+    #return ("Hello World")
+#for i in range(7):
+    #print(f"{i+1}.{say_hello()}")
