@@ -1,0 +1,10 @@
+#def sum(x,y):
+    #return x+y
+#def sub(x,y):
+    #return x-y
+#def calculation(x,y):
+    #sum_result=sum(x,y)
+    #sub_result=sub(x,y)
+    #return sum_result,sub_result
+#result=calculation(10,5)
+#print(result)
